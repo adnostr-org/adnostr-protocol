@@ -40,3 +40,10 @@ Built on **AGPL-3.0**, ensuring the protocol remains a public good for the Nostr
 
 ---
 *Developed by AdNostr Organization. Powered by the Nostr Protocol.*
+### 🚀 Multi-Platform Traffic Integration (Web2.5 Bridge)
+
+Traffic Siphoning: Leveraging AI-generated assets to capture attention from high-traffic platforms (TikTok, X, Google).
+
+Universal Attribution: A cross-platform tracking layer that maps Web2 clicks to Nostr protocol events.
+
+Low-Friction Onboarding: Enabling Web2 influencers to earn $Sats without needing deep crypto knowledge.
